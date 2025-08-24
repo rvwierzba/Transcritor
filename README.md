@@ -2,7 +2,7 @@
 
 ### Baixar o Instalador
 
-[**CLIQUE AQUI PARA BAIXAR O INSTALADOR**](COLE_O_LINK_AQUI)
+[**CLIQUE AQUI PARA BAIXAR O INSTALADOR**](https://github.com/rvwierzba/Transcritor/releases/download/v1.0.0/TranscritorApp.exe)
 
 ---
 
