@@ -1,0 +1,13 @@
+﻿# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
